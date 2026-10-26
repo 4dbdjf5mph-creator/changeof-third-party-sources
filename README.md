@@ -15,3 +15,6 @@ Original third-party licences and notices apply to their respective materials. N
 ## 日本語
 
 第三者ソース資料は Releases の添付ファイルとして公開します。資料一式にはZIP3個を使用し、各ZIPは別フォルダーへ展開してください。部品別の所在と照合値は総合索引、取得手順は DOWNLOAD-GUIDE-JA.txt をご確認ください。アプリ独自のソースや個人の画像・書籍・録音は公開しません。元の利用条件を保持し、資料全体へ新しい一括ライセンスを適用しません。
+## Corrected collection / 修正版資料
+Current collection: [source-materials-167-corrected-20261026](https://github.com/4dbdjf5mph-creator/changeof-third-party-sources/releases/tag/source-materials-167-corrected-20261026). This revision omits obsolete codec compiled outputs from two retained build-material archives while preserving source text, original terms and historical manifests. 73 of 75 component archives are unchanged.
+現在の資料は上記の修正版公開ページから取得してください。必要な資料はZIP3個、索引・照合値・日英案内の計7ファイルです。旧構築済み部品を含めない資料へ差し替え、元のソースと利用条件は保持しています。アプリ本体の公開や、製品全体の配布条件の解消認定ではありません。
